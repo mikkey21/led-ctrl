@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.r_slide {
+    background-color: black;
+    color: yellow;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+.r_slide2 {
+    background-color: black;
+    color: yellow;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(5,5,5,.8);
+    color: tan;
+    margin: 0 auto;
+}
+.btn:hover {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255,255,255,.8);
+    color: red;
+}
+
+.bgStyle = {
+    background-color: '#ff851b';
+    padding: "20px";
+    margin: "20px";
+    justify-content: "center";
+    align-items: "center";
+}
+.sliderStyle = {
+    background-color: 'grey';
+    color: "blue";
+    justify-content: "center";
+    align-items: "center";
+    margin:'auto';
+}
+  

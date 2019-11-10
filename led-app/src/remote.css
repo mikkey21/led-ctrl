@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.grad1 {
+}
+
+.app_div {
+    background-color: red;
+    background-image: linear-gradient(red,yellow);
+    width: 300px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.app_headline {
+    margin: auto;
+    text-align: center;
+}
+
+.slide_text {
+    margin: auto;
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(5,5,5,.8);
+    color: tan;
+    margin: 0 auto;
+}
+.btn:hover {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255,255,255,.8);
+    color: red;
+}
+
+.bgStyle = {
+    background-color: '#ff851b';
+    padding: "20px";
+    margin: "20px";
+    justify-content: "center";
+    align-items: "center";
+}
+  
+input[type=range]{
+    width: 100%;
+    margin: 10px;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
